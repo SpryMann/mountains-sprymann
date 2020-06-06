@@ -1,0 +1,1 @@
+"use strict";window.onload=function(){var t=document.querySelector("#popup");this.setTimeout(function(){t.classList.remove("negativeTop")},2e3),t.addEventListener("click",function(e){e.target.matches("#popupClose")&&t.classList.add("negativeTop")})};
