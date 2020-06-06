@@ -3,3 +3,6 @@ node_modules/
 
 # Ignore the src directory
 src/
+
+#Igonre convert to webp 
+convert-to-webp.js

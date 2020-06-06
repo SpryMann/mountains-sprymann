@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "del": "^5.1.0",
-    "imagemin-jpeg-recompress": "^7.0.0"
+    "imagemin-jpeg-recompress": "^7.0.0",
+    "imagemin-webp": "^6.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
