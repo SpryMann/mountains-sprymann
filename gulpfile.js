@@ -63,7 +63,8 @@ function watchChanges() {
     browserSync.init({
         server: {
             baseDir: "./"
-        }
+        },
+        browser: ["C:\/Program Files\/Internet Explorer\/iexplore.exe", "chrome"]
     });
     watch('./src/css/**/*.css', styles);
     watch('./src/js**/*.js', scripts);
